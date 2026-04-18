@@ -18,5 +18,5 @@ This project analyzes and predicts the impact of geopolitical conflicts (specifi
 
 ##  Project Structure
 - `/data`: Contains the datasets used for analysis.
-- `analysis.ipynb`: The Python notebook containing the ML model.
-- `dashboard.pbix`: The final Power BI file.
+- `2026_War_Oil_Crisis.ipynb`: The Python notebook containing the ML model.
+- `2026 War Oil Crisis Dashboard.pbix`: The final Power BI file.
